@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ALEN2002-py
+- 👋 Hi, I’m Alen Sebastian
 - 👀 I’m interested in the newly emerging technologies such as AI,ML,Robotics and blockchain
 - 🌱 I’m currently learning programming languages such as C,C++,JAVA,PYTHON,R
 - 💞️ I’m looking to collaborate on various projects based on integration of AI and blockchain

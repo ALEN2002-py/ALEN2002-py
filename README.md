@@ -5,6 +5,7 @@
 - 📫 How to reach me: 
      ✨ Ph No: 9188695537
      ✨ Email-id:-allanseby2003@gmail.com
+     ✨ Linkedin:- linkedin.com/in/alen-sebastian-veliyathuparamban-880748201/
 
 <!---
 ALEN2002-py/ALEN2002-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

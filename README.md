@@ -75,15 +75,6 @@ Object detection pipeline for precision agriculture using RetinaNet. Built end-t
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ALEN2002-py&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEN2002-py&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
-
----
-
 ## 🎓 Education
 
 **MSc Data and Computational Science** · University College Dublin, Ireland · 2025–Present  

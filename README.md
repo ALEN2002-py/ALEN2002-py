@@ -22,7 +22,7 @@ End-to-end perception pipeline for autonomous vehicle systems achieving **96% ac
 
 ---
 
-### 🔥 Real-Time Fire Detection & People Counting System
+### 🔥 [Real-Time Fire Detection & People Counting System](https://github.com/ALEN2002-py/Fire-Detection-People-Counting)
 AI-powered fire safety system achieving **97% fire detection accuracy** (Inception V3) and **95% people counting accuracy** (MobileNet SSD). Deployed on Raspberry Pi for edge inference — real-time monitoring without cloud dependency.  
 `TensorFlow` `Inception V3` `MobileNet SSD` `OpenCV` `Raspberry Pi`
 

@@ -92,6 +92,3 @@ I am open to global relocation and actively looking for **ML Engineer**, **Compu
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ALEN2002-py&style=flat&color=185FA5" alt="Profile views" />
-</p>
